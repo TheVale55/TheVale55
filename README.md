@@ -56,14 +56,6 @@ I enjoy solving real problems through code, collaborating in multidisciplinary t
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***Featured Projects***
 
-#### DNS-stack — Monitoring & Deployment Platform  
-Academic system integrating a DNS API, network interceptor, and service health-checker.  
-Deployed with **Docker**, **Kubernetes**, and **Helm**, featuring a real-time monitoring UI.
-
-#### Judicial Sentences ETL & Analytics Platform  
-End-to-end **data engineering pipeline** that extracts, transforms, and loads judicial data into **MongoDB**.  
-Includes **Power BI** dashboards for insight generation. *(Role: Data Engineer & Team Lead)*
-
 #### The Last of Us — ML Survivability Model  
 Machine learning model using **scikit-learn** to predict character survival probabilities  
 based on environment zones, inventory, and player attributes.  
