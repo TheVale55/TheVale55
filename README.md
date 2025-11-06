@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdtMWl0eGJnem5ua21jdm50eTNta3NnNGp1YzNnem0wdnE1ZzVucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8x6QpoDQsFPgYcJgA/giphy.gif" width="30px">&nbsp; About Me
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***About Me***
 
 I am a Computer Engineering student at the **Costa Rica Institute of Technology (TEC)**, driven by curiosity and creativity.  
 I am passionate about **data-driven systems**, **AI/ML**, and **reliable web applications**.  
@@ -27,7 +27,7 @@ I enjoy solving real problems through code, collaborating in multidisciplinary t
 - Connect on [**LinkedIn**](https://www.linkedin.com/in/valeria-oconitrillo-1a982226a)
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; GitHub Insights
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***GitHub Insights***
 
 <p align="center">
   <table align="center">
@@ -54,7 +54,7 @@ I enjoy solving real problems through code, collaborating in multidisciplinary t
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Featured Projects
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***Featured Projects***
 
 #### DNS-stack — Monitoring & Deployment Platform  
 Academic system integrating a DNS API, network interceptor, and service health-checker.  
@@ -81,7 +81,7 @@ Includes dataset engineering, feature selection, and evaluation metrics.
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Connect
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect***
 
 <p align="center">
   <!-- LinkedIn -->
