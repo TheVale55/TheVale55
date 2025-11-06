@@ -55,11 +55,23 @@ I enjoy solving real problems through code, collaborating in multidisciplinary t
 ---
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***Featured Projects***
+#### [Genetic Art — Evolutionary Image Approximation](https://github.com/TheVale55/TC02__Algoritmos_geneticos)  
+An evolutionary art project based on **genetic algorithms**, where each generation evolves a population of colored circles to resemble a target image.  
+Implemented in **Python** using `NumPy`, `Pillow`, `matplotlib`, and `PyYAML` for configuration-driven experiments.  
+Includes fitness visualization and parameterized runs via YAML configs.
 
-#### The Last of Us — ML Survivability Model  
+#### [The Last of Us — ML Survivability Model](https://github.com/TheVale55/Machine-Learning-TLOU)  
 Machine learning model using **scikit-learn** to predict character survival probabilities  
 based on environment zones, inventory, and player attributes.  
 Includes dataset engineering, feature selection, and evaluation metrics.
+
+#### [E-Commerce Platform for Video Games](https://github.com/TheVale55/Sitio-de-Comercio-Electronico)  
+Full-stack web application for a **video game store**, featuring user authentication, product management, shopping cart, and simulated payment flow.  
+Developed with a **two-tier architecture**:  
+- **Frontend:** Angular 18 with Tailwind CSS, Bootstrap 5, and Chart.js for dynamic dashboards and UI components.  
+- **Backend:** Node.js with Express, MongoDB (Mongoose), JWT authentication, and bcrypt for secure user handling.  
+Includes admin dashboards, user roles, product CRUD, wishlists, order tracking, and statistics visualizations.  
+Deployed using **Vercel/Netlify** and designed with a scalable, modular structure.
 
 ---
 
